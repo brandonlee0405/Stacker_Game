@@ -27,7 +27,8 @@ temporarily freezes. If the player messes up the stack, it just resets the stack
 
 ###Youtube Video
 
-[Stacker Video](https://www.youtube.com/watch?v=v2tnpOUjNDc)
+
+![Stacker Game](https://img.youtube.com/vi/v2tnpOUjNDc/0.jpg)](https://www.youtube.com/watch?v=v2tnpOUjNDc)
 
 ###Original Work Statement
 
